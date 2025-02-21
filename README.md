@@ -24,6 +24,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/its-AkshatJain/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/its-AkshatJain/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/its-AkshatJain/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/its-AkshatJain/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/its-AkshatJain/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/its-AkshatJain/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/its-AkshatJain/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/its-AkshatJain/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -82,6 +84,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/its-AkshatJain/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/its-AkshatJain/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/its-AkshatJain/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -120,6 +123,7 @@
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/its-AkshatJain/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
@@ -153,4 +157,12 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
