@@ -1,17 +1,25 @@
-
 class Solution {
 public:
-    int maxAbsoluteSum(vector<int>& nums) {
-        int min_point = 0;
-        int max_point = 0;
-        int prefix_sum = 0;
-        for (int ele : nums) {
-            prefix_sum += ele;
+    int maxSumSubarrayKadane(vector<int>& nums){
+        int currSum = 0;
+        int maxSum = INT_MIN;
 
-            min_point = min(min_point, prefix_sum);
-            max_point = max(max_point, prefix_sum);
+        for(int i=0; i<nums.size(); i++){
+            currSum += nums[i];
+            maxSum = max(maxSum, currSum);
+            if(currSum<0){
+                currSum = 0;
+            }
         }
-        return max_point - min_point;
+        return maxSum;
+    }
+    int maxAbsoluteSum(vector<int>& nums) {
+        int max_sum_subarray = maxSumSubarrayKadane(nums);
+
+        for(int i=0; i<nums.size(); i++){
+            nums[i] = (-1)*nums[i];
+        }
+        int min_sum_subarray = maxSumSubarrayKadane(nums);
+        return max(max_sum_subarray, min_sum_subarray);
     }
 };
-
