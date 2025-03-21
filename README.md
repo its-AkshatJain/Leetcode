@@ -16,6 +16,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/its-AkshatJain/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/its-AkshatJain/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -89,6 +90,7 @@
 | [0684-redundant-connection](https://github.com/its-AkshatJain/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/its-AkshatJain/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/its-AkshatJain/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/its-AkshatJain/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/its-AkshatJain/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -98,6 +100,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/its-AkshatJain/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/its-AkshatJain/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/its-AkshatJain/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sorting
 |  |
@@ -115,6 +118,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/its-AkshatJain/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2434-design-a-number-container-system](https://github.com/its-AkshatJain/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -132,6 +136,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/its-AkshatJain/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/its-AkshatJain/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
