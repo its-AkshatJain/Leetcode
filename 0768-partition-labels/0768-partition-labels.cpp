@@ -11,15 +11,16 @@ public:
         }
 
         int i = 0;
+        int start = 0;
+        int end = 0;
         while(i<n){
-            int end = lastOccurance[s[i]-'a'];
-            int j = i;
-            while(j<end){
-                end = max(end, lastOccurance[s[j]-'a']);
-                j++;
+            end = max(end, lastOccurance[s[i]-'a']);
+            
+            if(i == end){
+                res.push_back(end-start+1);
+                start = end+1;
             }
-            res.push_back(j-i+1);
-            i = j+1;
+            i++;
         }
         return res;
     }
