@@ -1,16 +1,11 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int i, int xorSum){
-        if(i == nums.size()){
-            return xorSum;
-        }
-
-        int include = solve(nums, i+1, nums[i]^xorSum);
-        int exclude = solve(nums, i+1, xorSum);
-
-        return include + exclude;
-    }
     int subsetXORSum(vector<int>& nums) {
-        return solve(nums, 0, 0);
+        int n = nums.size();
+        int orr = 0;
+        for(int num: nums){
+            orr |= num;
+        }
+        return orr*(1<<(n-1));
     }
 };
