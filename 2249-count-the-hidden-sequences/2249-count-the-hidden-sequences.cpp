@@ -10,11 +10,8 @@ public:
             minPrefix = min(minPrefix, sum);
             maxPrefix = max(maxPrefix, sum);
         }
-
-        long long start = lower - minPrefix;
-        long long end = upper - maxPrefix;
-
-        if(start > end) return 0;
-        return end-start+1;
+                    // bound - range +1
+        int count = (upper-lower) - (maxPrefix - minPrefix) + 1;
+        return count>0? count: 0;
     }
 };
