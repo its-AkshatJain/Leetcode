@@ -8,7 +8,7 @@ public:
             int second = nums[i+1];
             int third = nums[i+2];
 
-            if(2*(first+third) == second){
+            if(second%2==0 && (first+third) == (second/2)){
                 count++;
             }
         }
