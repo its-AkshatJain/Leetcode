@@ -1,25 +1,17 @@
 class Solution {
+    int MOD = 1e9 + 7;
 public:
-    int M = 1000000007;
-    int t[1001];
-    int solve(int n) {
-         if(n == 1 || n == 2)
-            return n;
-        if(n == 3)
-            return 5;
-        
-        if(t[n] != -1)
-            return t[n];
-        
-        return t[n] = (2*solve(n-1)%M + solve(n-3)%M)%M;
-    }
-    
     int numTilings(int n) {
-       
-        memset(t, -1, sizeof(t));
-        
-        
-        return solve(n);
-        
+       if(n<3) return n;
+       vector<int> dp(n+1);
+
+       dp[0] = 1;
+       dp[1] = 1;
+       dp[2] = 2;
+
+       for(int i=3; i<=n; i++){
+         dp[i] = (1LL*2*dp[i-1] + dp[i-3])%MOD; 
+       }
+       return dp[n]; 
     }
 };
