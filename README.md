@@ -56,6 +56,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/its-AkshatJain/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/its-AkshatJain/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/its-AkshatJain/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/its-AkshatJain/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/its-AkshatJain/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -315,6 +316,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/its-AkshatJain/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/its-AkshatJain/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/its-AkshatJain/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Tree
 |  |
 | ------- |
