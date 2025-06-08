@@ -93,6 +93,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/its-AkshatJain/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/its-AkshatJain/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/its-AkshatJain/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -546,4 +547,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/its-AkshatJain/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
