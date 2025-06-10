@@ -15,6 +15,11 @@ public:
                 count--;
             }
         }
-        return element;
+
+        int cnt = 0;
+        for(int i=0;i<n; i++){
+            if(nums[i] == element) cnt++;
+        }
+        return (cnt > (n/2)) ? element : -1;
     }
 };
