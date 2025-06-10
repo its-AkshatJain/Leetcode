@@ -6,9 +6,9 @@ public:
         for(int i=0; i<n; i++){
             freq[nums[i]]++;
         }
-        for(auto& pair: freq){
-            if(pair.second > (n/2)){
-                return pair.first;
+        for(auto& [num, count]: freq){
+            if(count > (n/2)){
+                return num;
             }
         }
 
