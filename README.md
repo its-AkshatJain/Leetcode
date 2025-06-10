@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/its-AkshatJain/Leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/its-AkshatJain/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/its-AkshatJain/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/its-AkshatJain/Leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/its-AkshatJain/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -152,6 +153,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/its-AkshatJain/Leetcode/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/its-AkshatJain/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/its-AkshatJain/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/its-AkshatJain/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/its-AkshatJain/Leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -217,6 +220,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/its-AkshatJain/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/its-AkshatJain/Leetcode/tree/master/0169-majority-element) |
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/its-AkshatJain/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -419,6 +423,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/its-AkshatJain/Leetcode/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/its-AkshatJain/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
