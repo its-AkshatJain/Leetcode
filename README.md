@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/its-AkshatJain/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/its-AkshatJain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/its-AkshatJain/Leetcode/tree/master/0075-sort-colors) |
@@ -458,6 +459,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/its-AkshatJain/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/its-AkshatJain/Leetcode/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
