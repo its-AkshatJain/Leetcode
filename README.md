@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/its-AkshatJain/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/its-AkshatJain/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/its-AkshatJain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/its-AkshatJain/Leetcode/tree/master/0075-sort-colors) |
@@ -147,6 +148,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/its-AkshatJain/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/its-AkshatJain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/its-AkshatJain/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/its-AkshatJain/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -307,6 +309,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/its-AkshatJain/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/its-AkshatJain/Leetcode/tree/master/0048-rotate-image) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/its-AkshatJain/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
