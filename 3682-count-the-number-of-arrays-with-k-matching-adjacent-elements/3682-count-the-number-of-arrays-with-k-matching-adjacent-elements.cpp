@@ -23,8 +23,9 @@ public:
         }
 
         // Fermat Little Theorem
-        for(int i=0;i<=n;i++){
-            inv_fact[i] = binaryExp(fact[i], MOD-2);
+        inv_fact[n] = binaryExp(fact[n], MOD-2);
+        for(int i=n;i>0;i--){
+            inv_fact[i-1] = (1LL*inv_fact[i]*i)%MOD;
         }
 
         if (n - 1 - k < 0) return 0;
