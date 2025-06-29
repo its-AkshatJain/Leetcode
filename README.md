@@ -35,6 +35,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/its-AkshatJain/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/its-AkshatJain/Leetcode/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/its-AkshatJain/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -224,6 +225,7 @@
 | [0169-majority-element](https://github.com/its-AkshatJain/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/its-AkshatJain/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -512,6 +514,7 @@
 | [0075-sort-colors](https://github.com/its-AkshatJain/Leetcode/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/its-AkshatJain/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/its-AkshatJain/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -542,6 +545,7 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/its-AkshatJain/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/its-AkshatJain/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
