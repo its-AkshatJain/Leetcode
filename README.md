@@ -326,6 +326,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/its-AkshatJain/Leetcode/tree/master/0038-count-and-say) |
+| [0696-count-binary-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/its-AkshatJain/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -570,6 +571,7 @@
 | [0031-next-permutation](https://github.com/its-AkshatJain/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/its-AkshatJain/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/its-AkshatJain/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0696-count-binary-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
