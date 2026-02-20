@@ -248,6 +248,7 @@
 | [0229-majority-element-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0761-special-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0761-special-binary-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -327,6 +328,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/its-AkshatJain/Leetcode/tree/master/0038-count-and-say) |
 | [0696-count-binary-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/its-AkshatJain/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -530,6 +532,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/its-AkshatJain/Leetcode/tree/master/0169-majority-element) |
+| [0761-special-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/its-AkshatJain/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
