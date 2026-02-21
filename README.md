@@ -383,6 +383,7 @@
 | [0009-palindrome-number](https://github.com/its-AkshatJain/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/its-AkshatJain/Leetcode/tree/master/0048-rotate-image) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/its-AkshatJain/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/its-AkshatJain/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -631,6 +632,7 @@
 | ------- |
 | [0136-single-number](https://github.com/its-AkshatJain/Leetcode/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/its-AkshatJain/Leetcode/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/its-AkshatJain/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/its-AkshatJain/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/2478-longest-nice-subarray) |
