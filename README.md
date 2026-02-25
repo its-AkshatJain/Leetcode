@@ -34,6 +34,7 @@
 | [1293-three-consecutive-odds](https://github.com/its-AkshatJain/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/its-AkshatJain/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/its-AkshatJain/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/its-AkshatJain/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/its-AkshatJain/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/its-AkshatJain/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -196,6 +197,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/its-AkshatJain/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/its-AkshatJain/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/its-AkshatJain/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/its-AkshatJain/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -250,6 +252,7 @@
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0761-special-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/its-AkshatJain/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -639,6 +642,7 @@
 | [0401-binary-watch](https://github.com/its-AkshatJain/Leetcode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/its-AkshatJain/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/its-AkshatJain/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/its-AkshatJain/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/its-AkshatJain/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
