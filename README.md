@@ -165,6 +165,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/its-AkshatJain/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -367,6 +368,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/its-AkshatJain/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/its-AkshatJain/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -422,6 +424,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/its-AkshatJain/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/its-AkshatJain/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/its-AkshatJain/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
@@ -458,6 +461,7 @@
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/its-AkshatJain/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Data Stream
 |  |
 | ------- |
@@ -742,4 +746,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/its-AkshatJain/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
