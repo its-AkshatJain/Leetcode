@@ -42,6 +42,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/its-AkshatJain/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -186,6 +187,7 @@
 | [0945-snakes-and-ladders](https://github.com/its-AkshatJain/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/its-AkshatJain/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/its-AkshatJain/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
