@@ -490,6 +490,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -591,6 +592,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/its-AkshatJain/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/its-AkshatJain/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
