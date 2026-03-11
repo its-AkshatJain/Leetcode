@@ -4,11 +4,10 @@ public:
         if(n==0){
             return 1;
         }
-        int mask = 0;
+        
+        int bits = floor(log2(n)) + 1;
+        int mask = pow(2, bits) - 1;
 
-        while(mask<n){
-            mask = (mask<<1) | 1;
-        }
         return mask ^ n;
     }
 };
