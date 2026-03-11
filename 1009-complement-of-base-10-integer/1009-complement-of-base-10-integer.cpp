@@ -6,7 +6,7 @@ public:
         }
         
         int bits = floor(log2(n)) + 1;
-        int mask = pow(2, bits) - 1;
+        int mask = (1<<bits) - 1;
 
         return mask ^ n;
     }
