@@ -126,6 +126,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/its-AkshatJain/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/its-AkshatJain/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -202,6 +203,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/its-AkshatJain/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/its-AkshatJain/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/its-AkshatJain/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/its-AkshatJain/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Counting
@@ -291,6 +293,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/its-AkshatJain/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/its-AkshatJain/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/its-AkshatJain/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/its-AkshatJain/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3647-zero-array-transformation-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
