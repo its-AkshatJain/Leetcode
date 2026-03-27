@@ -104,6 +104,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/its-AkshatJain/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2906-construct-product-matrix](https://github.com/its-AkshatJain/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/its-AkshatJain/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3001-apply-operations-to-maximize-score](https://github.com/its-AkshatJain/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/its-AkshatJain/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -209,6 +210,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/its-AkshatJain/Leetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/its-AkshatJain/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/its-AkshatJain/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/its-AkshatJain/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/its-AkshatJain/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -425,6 +427,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/its-AkshatJain/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/its-AkshatJain/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/its-AkshatJain/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/3447-clear-digits) |
@@ -456,6 +459,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/its-AkshatJain/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/its-AkshatJain/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/its-AkshatJain/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/its-AkshatJain/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/its-AkshatJain/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/its-AkshatJain/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
