@@ -300,6 +300,7 @@
 | [2681-put-marbles-in-bags](https://github.com/its-AkshatJain/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/its-AkshatJain/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/its-AkshatJain/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/its-AkshatJain/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/its-AkshatJain/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -350,6 +351,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/its-AkshatJain/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/its-AkshatJain/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/its-AkshatJain/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -400,6 +402,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/its-AkshatJain/Leetcode/tree/master/3194-find-words-containing-character) |
