@@ -126,6 +126,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/its-AkshatJain/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/its-AkshatJain/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-special-array-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/its-AkshatJain/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/its-AkshatJain/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -217,6 +218,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/its-AkshatJain/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/its-AkshatJain/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/its-AkshatJain/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/its-AkshatJain/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/its-AkshatJain/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -663,6 +665,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/its-AkshatJain/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/its-AkshatJain/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/its-AkshatJain/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
