@@ -4,23 +4,11 @@ public:
         int l = encodedText.length();
         int columns = l/rows;
 
-        vector<vector<char>> mat(rows, vector<char>(columns));
         string originalText;
 
-        int index = 0;
-        for(int i = 0; i < rows; i++){
-            for(int j = 0; j < columns; j++){
-                mat[i][j] = encodedText[index++];
-            }
-        }
-
-        for(int col=0; col<columns; col++){
-            int i = 0;
-            int j = col;
-            while(i<rows && j<columns){
-                originalText += mat[i][j];
-                i++;
-                j++;
+        for(int col=0; col<=columns; col++){
+            for(int j = col; j < l; j+= (columns + 1)){
+                originalText += encodedText[j];
             }
         }
 
