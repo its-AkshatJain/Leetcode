@@ -144,6 +144,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/its-AkshatJain/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3647-zero-array-transformation-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/its-AkshatJain/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/its-AkshatJain/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -454,6 +455,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/its-AkshatJain/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Math
 |  |
 | ------- |
@@ -643,6 +645,7 @@
 | [0761-special-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/its-AkshatJain/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
