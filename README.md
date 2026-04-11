@@ -150,6 +150,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/its-AkshatJain/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/its-AkshatJain/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/its-AkshatJain/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -378,6 +379,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/its-AkshatJain/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/its-AkshatJain/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
