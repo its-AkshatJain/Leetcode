@@ -89,6 +89,7 @@
 | [2478-longest-nice-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/its-AkshatJain/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/its-AkshatJain/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -422,6 +423,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/its-AkshatJain/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
