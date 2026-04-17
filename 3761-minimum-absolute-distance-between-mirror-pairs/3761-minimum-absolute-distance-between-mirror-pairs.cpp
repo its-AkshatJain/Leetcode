@@ -15,13 +15,13 @@ public:
         unordered_map<int, int> mp; 
         int result = INT_MAX;
 
-        for(int i=0; i<n; i++){
+        for(int j=0; j<n; j++){
         
-            if(mp.count(nums[i])){
-                result = min(result, i - mp[nums[i]] );
+            if(mp.count(nums[j])){
+                result = min(result, j - mp[nums[j]] );
             }
-            int rev = reverseNum(nums[i]);
-            mp[rev] = i;
+            int rev = reverseNum(nums[j]);
+            mp[rev] = j;
         }
 
         return result == INT_MAX ? -1 : result;
