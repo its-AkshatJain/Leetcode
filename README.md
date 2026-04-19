@@ -395,6 +395,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/its-AkshatJain/Leetcode/tree/master/0038-count-and-say) |
+| [0392-is-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/its-AkshatJain/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0761-special-binary-string) |
@@ -672,6 +673,7 @@
 | [0118-pascals-triangle](https://github.com/its-AkshatJain/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-AkshatJain/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/its-AkshatJain/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
@@ -713,6 +715,7 @@
 | [0031-next-permutation](https://github.com/its-AkshatJain/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/its-AkshatJain/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/its-AkshatJain/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
