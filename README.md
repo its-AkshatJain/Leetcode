@@ -100,6 +100,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/its-AkshatJain/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/its-AkshatJain/Leetcode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/its-AkshatJain/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/its-AkshatJain/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -373,6 +374,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2615-sum-of-distances](https://github.com/its-AkshatJain/Leetcode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/its-AkshatJain/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/its-AkshatJain/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -578,6 +580,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2249-count-the-hidden-sequences](https://github.com/its-AkshatJain/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2615-sum-of-distances](https://github.com/its-AkshatJain/Leetcode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/its-AkshatJain/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/its-AkshatJain/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
