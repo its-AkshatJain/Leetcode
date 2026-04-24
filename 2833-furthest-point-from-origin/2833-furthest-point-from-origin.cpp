@@ -11,7 +11,6 @@ public:
             else count_++;
         }
 
-        return (countL > countR) ? countL + count_ - countR : countR + count_ - countL;
-
+        return abs(countL - countR) + count_;
     }
 };
