@@ -139,6 +139,7 @@
 | [3429-special-array-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/its-AkshatJain/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/its-AkshatJain/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/its-AkshatJain/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3488-closest-equal-element-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -333,6 +334,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/its-AkshatJain/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/its-AkshatJain/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/its-AkshatJain/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/its-AkshatJain/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/its-AkshatJain/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3647-zero-array-transformation-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/its-AkshatJain/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -518,6 +520,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/its-AkshatJain/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/its-AkshatJain/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/its-AkshatJain/Leetcode/tree/master/3321-type-of-triangle) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/its-AkshatJain/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3548-find-the-count-of-good-integers](https://github.com/its-AkshatJain/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -783,6 +786,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/its-AkshatJain/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/its-AkshatJain/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/its-AkshatJain/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -918,4 +922,8 @@
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/its-AkshatJain/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/its-AkshatJain/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
