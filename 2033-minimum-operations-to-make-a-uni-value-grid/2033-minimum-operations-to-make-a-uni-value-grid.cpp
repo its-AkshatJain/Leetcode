@@ -12,7 +12,7 @@ public:
         }
 
         int L = vec.size();
-        sort(vec.begin(), vec.end());
+        nth_element(vec.begin(), vec.begin() + L/2, vec.end());
         int result = 0;
         int target = vec[L/2];
 
