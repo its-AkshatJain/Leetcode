@@ -165,6 +165,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/its-AkshatJain/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -255,6 +256,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/its-AkshatJain/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -737,6 +739,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/its-AkshatJain/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/its-AkshatJain/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
