@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/its-AkshatJain/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/its-AkshatJain/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/its-AkshatJain/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -505,6 +506,7 @@
 | [0009-palindrome-number](https://github.com/its-AkshatJain/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/its-AkshatJain/Leetcode/tree/master/0048-rotate-image) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/its-AkshatJain/Leetcode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/its-AkshatJain/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/its-AkshatJain/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -705,6 +707,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-AkshatJain/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/its-AkshatJain/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/its-AkshatJain/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
