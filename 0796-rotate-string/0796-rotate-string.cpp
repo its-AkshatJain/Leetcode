@@ -8,8 +8,9 @@ public:
             return false;
         }
 
-        if((s+s).find(goal) != string::npos){
-            return true;
+        for(int count = 0; count <= m; count++){
+            rotate(s.begin(), s.begin()+1, s.end());
+            if(s == goal) return true;
         }
 
         return false;
