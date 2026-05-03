@@ -425,6 +425,7 @@
 | [0696-count-binary-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/its-AkshatJain/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/its-AkshatJain/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -947,6 +948,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/its-AkshatJain/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Geometry
 |  |
