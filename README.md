@@ -752,6 +752,7 @@
 | [0015-3sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/its-AkshatJain/Leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/its-AkshatJain/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/its-AkshatJain/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/its-AkshatJain/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0392-is-subsequence) |
@@ -918,6 +919,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/its-AkshatJain/Leetcode/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
 |  |
