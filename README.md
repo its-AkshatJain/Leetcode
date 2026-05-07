@@ -163,6 +163,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/its-AkshatJain/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3660-jump-game-ix](https://github.com/its-AkshatJain/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/its-AkshatJain/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -746,6 +747,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/its-AkshatJain/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3660-jump-game-ix](https://github.com/its-AkshatJain/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/its-AkshatJain/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
