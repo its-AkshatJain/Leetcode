@@ -53,6 +53,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/its-AkshatJain/Leetcode/tree/master/1656-count-good-triplets) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/its-AkshatJain/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/its-AkshatJain/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/its-AkshatJain/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/its-AkshatJain/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1813-maximum-erasure-value](https://github.com/its-AkshatJain/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -388,6 +389,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/its-AkshatJain/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/its-AkshatJain/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/its-AkshatJain/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/its-AkshatJain/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -616,6 +618,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/its-AkshatJain/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/its-AkshatJain/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2249-count-the-hidden-sequences](https://github.com/its-AkshatJain/Leetcode/tree/master/2249-count-the-hidden-sequences) |
