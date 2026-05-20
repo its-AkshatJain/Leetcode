@@ -116,6 +116,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/its-AkshatJain/Leetcode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/its-AkshatJain/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/its-AkshatJain/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/its-AkshatJain/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -418,6 +419,7 @@
 | [2540-minimum-common-value](https://github.com/its-AkshatJain/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/its-AkshatJain/Leetcode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/its-AkshatJain/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/its-AkshatJain/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -869,6 +871,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/its-AkshatJain/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/its-AkshatJain/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/its-AkshatJain/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
