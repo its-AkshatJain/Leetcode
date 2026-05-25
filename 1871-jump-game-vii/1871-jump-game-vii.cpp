@@ -2,29 +2,22 @@ class Solution {
 public:
     bool canReach(string s, int minJump, int maxJump) {
         int n = s.size();
-        queue<int> q;
-        q.push(0);
-        int far = 0; 
+        vector<bool> dp(n+1, false);
+        dp[0] = true;
+        int reachable = 0;
 
-        while(!q.empty()){
-            int i = q.front();
-            q.pop();
-
-            int start = max(i+minJump, far+1);
-            int end = min(i+maxJump, n-1);
-
-            for(int j=start; j<=end; j++){
-                if(s[j] == '0'){
-                    if(j == n-1){
-                        return true;
-                    }
-                    q.push(j);
-                }
+        for(int i=1; i<n; i++){
+            if(i-minJump >=0 && dp[i-minJump]){
+                reachable++;
             }
 
-            far = end;
+            if(i-maxJump-1 >=0 && dp[i-maxJump-1]){
+                reachable--;
+            }
+
+            dp[i] = reachable > 0 && s[i] == '0';
         }
 
-        return n==1;
+        return dp[n-1];
     }
 };
