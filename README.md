@@ -138,6 +138,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/its-AkshatJain/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/its-AkshatJain/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/its-AkshatJain/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -498,6 +499,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/its-AkshatJain/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -974,6 +976,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/its-AkshatJain/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/its-AkshatJain/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/its-AkshatJain/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 ## Linked List
 |  |
 | ------- |
