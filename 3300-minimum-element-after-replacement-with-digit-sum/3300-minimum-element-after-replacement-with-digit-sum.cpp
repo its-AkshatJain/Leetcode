@@ -6,9 +6,10 @@ public:
         
         for(int &num: nums){
             int sum = 0;
-            string stringNum = to_string(num);
-            for(char &ch: stringNum) {
-                sum += ch-'0';
+            while(num){
+                int digit = num%10;
+                sum += digit;
+                num = num/10;
             }
             result = min(result, sum);
         }
