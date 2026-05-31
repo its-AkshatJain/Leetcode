@@ -2,13 +2,14 @@ class Solution {
 public:
     bool asteroidsDestroyed(int mass, vector<int>& asteroids) {
         sort(asteroids.begin(), asteroids.end());
-        long long MASS = mass;
 
         for (int& m : asteroids) {
-            if (MASS < m) {
+            if (mass < m) {
                 return false;
+            }else if(mass > 1e5){
+                return true;
             }
-            MASS += m;
+            mass += m;
         }
 
         return true;
