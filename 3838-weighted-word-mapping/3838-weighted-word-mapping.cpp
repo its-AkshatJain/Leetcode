@@ -10,8 +10,8 @@ public:
                 wordWeight += weights[ch - 'a'];
             }
             wordWeight = wordWeight % 26;
-            int index = 26 - wordWeight;
-            result += 'a' + (index - 1);
+            int index = 25 - wordWeight;
+            result += 'a' + index;
         }
         return result;
     }
