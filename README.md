@@ -201,6 +201,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/its-AkshatJain/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/its-AkshatJain/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3838-weighted-word-mapping](https://github.com/its-AkshatJain/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -535,6 +536,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/its-AkshatJain/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3838-weighted-word-mapping](https://github.com/its-AkshatJain/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -561,6 +563,7 @@
 | [3447-clear-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/its-AkshatJain/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
