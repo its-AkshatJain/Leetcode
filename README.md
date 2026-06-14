@@ -624,6 +624,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/its-AkshatJain/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-AkshatJain/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2751-robot-collisions](https://github.com/its-AkshatJain/Leetcode/tree/master/2751-robot-collisions) |
@@ -850,6 +851,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/its-AkshatJain/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/its-AkshatJain/Leetcode/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-AkshatJain/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/its-AkshatJain/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/its-AkshatJain/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/its-AkshatJain/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1030,6 +1032,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/its-AkshatJain/Leetcode/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-AkshatJain/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Function
 |  |
 | ------- |
