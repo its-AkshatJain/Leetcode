@@ -527,6 +527,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/its-AkshatJain/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/3447-clear-digits) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/its-AkshatJain/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -562,6 +563,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/its-AkshatJain/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/its-AkshatJain/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Math
