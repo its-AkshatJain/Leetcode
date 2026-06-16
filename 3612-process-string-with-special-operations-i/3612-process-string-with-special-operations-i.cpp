@@ -14,8 +14,8 @@ public:
         string result = "";
         for (char& ch : s) {
             if (ch == '*') {
-                if (!result.empty()) {
-                    result.pop_back();
+                if (result != "") {
+                    result = result.substr(0, result.length() - 1);
                 }
             } else if (ch == '#') {
                 result += result;
