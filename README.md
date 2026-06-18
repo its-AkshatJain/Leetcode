@@ -578,6 +578,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/its-AkshatJain/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/its-AkshatJain/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/its-AkshatJain/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
