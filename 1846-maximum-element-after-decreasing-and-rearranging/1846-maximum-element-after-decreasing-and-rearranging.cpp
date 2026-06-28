@@ -2,19 +2,19 @@ class Solution {
 public:
     int maximumElementAfterDecrementingAndRearranging(vector<int>& arr) {
         int n = arr.size();
-        int maxElement = 0;
-        sort(arr.begin(), arr.end());
-
-        for (int i = 0; i < n; i++) {
-            if (i == 0) {
-                arr[i] = 1;
-            } else if (abs(arr[i] - arr[i - 1]) > 1) {
-                arr[i] = arr[i - 1] + 1;
-            }
-
-            maxElement = max(maxElement, arr[i]);
+        vector<int> count(n + 1, 0);
+        for (int x : arr) {
+            count[min(x, n)]++;
         }
 
-        return maxElement;
+        int ans = 0;
+
+        for (int x = 1; x <= n; x++) {
+            while (count[x]--) {
+                ans = min(ans + 1, x);
+            }
+        }
+
+        return ans;
     }
 };
