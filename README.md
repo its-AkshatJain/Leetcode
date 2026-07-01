@@ -433,6 +433,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/its-AkshatJain/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1345-jump-game-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/its-AkshatJain/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -507,6 +508,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/its-AkshatJain/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/its-AkshatJain/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/its-AkshatJain/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/its-AkshatJain/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -917,6 +919,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/its-AkshatJain/Leetcode/tree/master/1813-maximum-erasure-value) |
