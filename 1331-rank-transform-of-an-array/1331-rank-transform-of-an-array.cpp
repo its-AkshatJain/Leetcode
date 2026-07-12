@@ -9,10 +9,9 @@ public:
         int currRank = 1;
 
         for(int i=0; i<n; i++){
-            if(i>0 && temp[i-1] !=temp[i]){
-                currRank++;
+            if(!rank.count(temp[i])){
+                rank[temp[i]] = currRank++;
             }
-            rank[temp[i]] = currRank;
         }
 
         for(int i=0; i<n; i++){
