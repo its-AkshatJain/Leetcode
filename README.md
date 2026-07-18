@@ -83,6 +83,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/its-AkshatJain/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/its-AkshatJain/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -642,6 +643,7 @@
 | [1840-maximum-building-height](https://github.com/its-AkshatJain/Leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/its-AkshatJain/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/its-AkshatJain/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/2050-count-good-numbers) |
@@ -957,6 +959,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/its-AkshatJain/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/its-AkshatJain/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
