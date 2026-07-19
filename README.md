@@ -528,6 +528,7 @@
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/its-AkshatJain/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/its-AkshatJain/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/its-AkshatJain/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -690,6 +691,7 @@
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/its-AkshatJain/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-AkshatJain/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -791,6 +793,7 @@
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/its-AkshatJain/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/its-AkshatJain/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/its-AkshatJain/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -1061,6 +1064,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3001-apply-operations-to-maximize-score](https://github.com/its-AkshatJain/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
