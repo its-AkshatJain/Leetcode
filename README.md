@@ -36,6 +36,7 @@
 | [0945-snakes-and-ladders](https://github.com/its-AkshatJain/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/its-AkshatJain/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1260-shift-2d-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/its-AkshatJain/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/its-AkshatJain/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/its-AkshatJain/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -292,6 +293,7 @@
 | [0048-rotate-image](https://github.com/its-AkshatJain/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/its-AkshatJain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/its-AkshatJain/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1260-shift-2d-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/its-AkshatJain/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/its-AkshatJain/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -597,6 +599,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/its-AkshatJain/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/its-AkshatJain/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/its-AkshatJain/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
