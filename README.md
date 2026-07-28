@@ -440,6 +440,7 @@
 | [3321-type-of-triangle](https://github.com/its-AkshatJain/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/its-AkshatJain/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/its-AkshatJain/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/its-AkshatJain/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -591,6 +592,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/its-AkshatJain/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -1222,4 +1224,5 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/its-AkshatJain/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
