@@ -27,6 +27,7 @@
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/its-AkshatJain/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/its-AkshatJain/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/its-AkshatJain/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -652,6 +653,7 @@
 | [0048-rotate-image](https://github.com/its-AkshatJain/Leetcode/tree/master/0048-rotate-image) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/its-AkshatJain/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/its-AkshatJain/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/its-AkshatJain/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/0788-rotated-digits) |
@@ -910,6 +912,7 @@
 | [0392-is-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/its-AkshatJain/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/its-AkshatJain/Leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/its-AkshatJain/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
@@ -1134,6 +1137,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/its-AkshatJain/Leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1238,4 +1242,8 @@
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/its-AkshatJain/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/its-AkshatJain/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
