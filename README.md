@@ -53,6 +53,7 @@
 | [1364-tuple-with-same-product](https://github.com/its-AkshatJain/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/its-AkshatJain/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/its-AkshatJain/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -661,6 +662,7 @@
 | [0797-rabbits-in-forest](https://github.com/its-AkshatJain/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/its-AkshatJain/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/its-AkshatJain/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -924,6 +926,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/its-AkshatJain/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/its-AkshatJain/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/its-AkshatJain/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1250,4 +1253,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/its-AkshatJain/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/its-AkshatJain/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
