@@ -220,6 +220,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3731-find-missing-elements](https://github.com/its-AkshatJain/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -454,6 +455,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/its-AkshatJain/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/its-AkshatJain/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -529,6 +531,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/its-AkshatJain/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/its-AkshatJain/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-find-missing-elements](https://github.com/its-AkshatJain/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
