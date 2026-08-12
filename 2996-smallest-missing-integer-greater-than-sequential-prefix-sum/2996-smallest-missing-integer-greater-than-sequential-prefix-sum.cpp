@@ -2,7 +2,6 @@ class Solution {
 public:
     int missingInteger(vector<int>& nums) {
         int n = nums.size();
-        unordered_set<int> st(nums.begin(), nums.end());
         int seqSum = nums[0];
         
         for(int j=1; j<n; j++){
@@ -13,8 +12,14 @@ public:
             }
         }
 
-        while(st.count(seqSum)){
-            seqSum++;
+        sort(nums.begin(), nums.end());
+
+        for(int i=0; i<n; i++){
+            if(nums[i] == seqSum){
+                seqSum++;
+            }else if(nums[i] > seqSum){
+                break;
+            }
         }
 
         return seqSum;
