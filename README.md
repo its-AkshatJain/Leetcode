@@ -62,6 +62,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/its-AkshatJain/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/its-AkshatJain/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -690,6 +691,7 @@
 | [1500-count-largest-group](https://github.com/its-AkshatJain/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-stone-game-iv) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1563-stone-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/its-AkshatJain/Leetcode/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -960,6 +962,7 @@
 | [1340-jump-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/its-AkshatJain/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1298,6 +1301,7 @@
 | [1140-stone-game-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/its-AkshatJain/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
