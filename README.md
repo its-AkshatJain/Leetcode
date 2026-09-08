@@ -575,6 +575,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/its-AkshatJain/Leetcode/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/its-AkshatJain/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/its-AkshatJain/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -977,6 +978,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/its-AkshatJain/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/its-AkshatJain/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-AkshatJain/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/0368-largest-divisible-subset) |
