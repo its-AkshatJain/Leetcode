@@ -268,6 +268,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/its-AkshatJain/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/its-AkshatJain/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/its-AkshatJain/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/its-AkshatJain/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/its-AkshatJain/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -950,6 +951,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/its-AkshatJain/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/its-AkshatJain/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/its-AkshatJain/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/its-AkshatJain/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -963,6 +965,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/its-AkshatJain/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/its-AkshatJain/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/its-AkshatJain/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
 | ------- |
