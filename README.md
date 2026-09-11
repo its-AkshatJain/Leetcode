@@ -202,6 +202,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -552,6 +553,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/its-AkshatJain/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/its-AkshatJain/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1221,6 +1223,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1236,6 +1239,7 @@
 | [0486-predict-the-winner](https://github.com/its-AkshatJain/Leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Indexed Tree
