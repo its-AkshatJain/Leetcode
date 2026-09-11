@@ -3,7 +3,7 @@ public:
     int totalNumbers(vector<int>& digits) {
         int n = digits.size();
         vector<int> mp(10, 0);
-        vector<int> result;
+        int result = 0;
 
         for (int digit : digits) {
             mp[digit]++;
@@ -25,7 +25,7 @@ public:
                     mp[k]--;
 
                     int num = (i * 100) + (j * 10) + k;
-                    result.push_back(num);
+                    result += 1;
 
                     mp[k]++;
                 }
@@ -34,6 +34,6 @@ public:
             mp[i]++;
         }
 
-        return result.size();
+        return result;
     }
 };
