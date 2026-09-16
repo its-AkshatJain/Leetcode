@@ -723,6 +723,7 @@
 | [1510-stone-game-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-stone-game-iv) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/its-AkshatJain/Leetcode/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -845,6 +846,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/its-AkshatJain/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/1140-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/its-AkshatJain/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/its-AkshatJain/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -1013,6 +1015,7 @@
 | [1563-stone-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/its-AkshatJain/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1212,6 +1215,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/its-AkshatJain/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
