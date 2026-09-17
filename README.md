@@ -60,6 +60,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/its-AkshatJain/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -512,6 +513,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/its-AkshatJain/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1500-count-largest-group](https://github.com/its-AkshatJain/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/its-AkshatJain/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1011,6 +1013,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/its-AkshatJain/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1112,6 +1115,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/its-AkshatJain/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/its-AkshatJain/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/its-AkshatJain/Leetcode/tree/master/1871-jump-game-vii) |
@@ -1136,6 +1140,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/its-AkshatJain/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/its-AkshatJain/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/its-AkshatJain/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
