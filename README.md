@@ -720,6 +720,7 @@
 | [0877-stone-game](https://github.com/its-AkshatJain/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/its-AkshatJain/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/its-AkshatJain/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1363,6 +1364,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/its-AkshatJain/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/its-AkshatJain/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/its-AkshatJain/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Counting Sort
 |  |
