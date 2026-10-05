@@ -596,6 +596,7 @@
 | [0761-special-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -808,6 +809,7 @@
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/its-AkshatJain/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-AkshatJain/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1423,4 +1425,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
