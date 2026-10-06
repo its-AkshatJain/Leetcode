@@ -598,6 +598,7 @@
 | [0796-rotate-string](https://github.com/its-AkshatJain/Leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-AkshatJain/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/its-AkshatJain/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -810,6 +811,7 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-AkshatJain/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/its-AkshatJain/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-AkshatJain/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -920,6 +922,7 @@
 | [0135-candy](https://github.com/its-AkshatJain/Leetcode/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/its-AkshatJain/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/its-AkshatJain/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-AkshatJain/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/its-AkshatJain/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/its-AkshatJain/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1429,4 +1432,5 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-AkshatJain/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
