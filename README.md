@@ -288,6 +288,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0684-redundant-connection](https://github.com/its-AkshatJain/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/its-AkshatJain/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/its-AkshatJain/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -590,6 +591,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/its-AkshatJain/Leetcode/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/its-AkshatJain/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/its-AkshatJain/Leetcode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/its-AkshatJain/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -904,6 +906,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/its-AkshatJain/Leetcode/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/its-AkshatJain/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/its-AkshatJain/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
