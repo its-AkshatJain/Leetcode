@@ -602,6 +602,7 @@
 | [0868-push-dominoes](https://github.com/its-AkshatJain/Leetcode/tree/master/0868-push-dominoes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-AkshatJain/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/its-AkshatJain/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/its-AkshatJain/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -814,6 +815,7 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-AkshatJain/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/its-AkshatJain/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-AkshatJain/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1436,4 +1438,5 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-AkshatJain/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
