@@ -618,6 +618,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/its-AkshatJain/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/its-AkshatJain/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -817,6 +818,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-AkshatJain/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/its-AkshatJain/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-AkshatJain/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -934,6 +936,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/its-AkshatJain/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/its-AkshatJain/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1439,4 +1442,5 @@
 | [0856-score-of-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-AkshatJain/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/its-AkshatJain/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/its-AkshatJain/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
