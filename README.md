@@ -126,6 +126,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/its-AkshatJain/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -460,6 +461,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/its-AkshatJain/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/its-AkshatJain/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/its-AkshatJain/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -840,6 +842,7 @@
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/its-AkshatJain/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2434-design-a-number-container-system](https://github.com/its-AkshatJain/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -951,6 +954,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/its-AkshatJain/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/its-AkshatJain/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/its-AkshatJain/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/its-AkshatJain/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1180,6 +1184,7 @@
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/its-AkshatJain/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/its-AkshatJain/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/its-AkshatJain/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/its-AkshatJain/Leetcode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
