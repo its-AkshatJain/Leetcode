@@ -159,6 +159,7 @@
 | [2751-robot-collisions](https://github.com/its-AkshatJain/Leetcode/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/its-AkshatJain/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/its-AkshatJain/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/its-AkshatJain/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/its-AkshatJain/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1274,6 +1275,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/its-AkshatJain/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/its-AkshatJain/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/its-AkshatJain/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/its-AkshatJain/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
