@@ -238,6 +238,7 @@
 | [3639-zero-array-transformation-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/its-AkshatJain/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/its-AkshatJain/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3647-zero-array-transformation-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -1265,6 +1266,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/its-AkshatJain/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/its-AkshatJain/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/its-AkshatJain/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
