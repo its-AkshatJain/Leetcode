@@ -660,6 +660,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/its-AkshatJain/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/its-AkshatJain/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/its-AkshatJain/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/its-AkshatJain/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -781,6 +782,7 @@
 | [2050-count-good-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/its-AkshatJain/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2409-count-days-spent-together](https://github.com/its-AkshatJain/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2448-count-number-of-bad-pairs](https://github.com/its-AkshatJain/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/its-AkshatJain/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/its-AkshatJain/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
