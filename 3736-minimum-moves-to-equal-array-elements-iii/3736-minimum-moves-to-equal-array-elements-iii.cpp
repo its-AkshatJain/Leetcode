@@ -2,17 +2,9 @@ class Solution {
 public:
     int minMoves(vector<int>& nums) {
         int n = nums.size();
-        int max_element = INT_MIN;
+        int mx_element = *max_element(nums.begin(), nums.end());
+        int sum = accumulate(nums.begin(), nums.end(), 0);
 
-        for(int i=0; i<n; i++){
-            max_element =  max(max_element, nums[i]);
-        }
-
-        int moves = 0;
-        for(int i=0; i<n; i++){
-            moves += (max_element - nums[i]);
-        }
-
-        return moves;
+        return n*mx_element - sum;
     }
 };
