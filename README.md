@@ -219,6 +219,7 @@
 | [3488-closest-equal-element-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -603,6 +604,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/its-AkshatJain/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -824,6 +826,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/its-AkshatJain/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -899,6 +902,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/its-AkshatJain/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/its-AkshatJain/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/its-AkshatJain/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1136,6 +1140,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/its-AkshatJain/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/its-AkshatJain/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1224,6 +1229,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/its-AkshatJain/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
