@@ -214,6 +214,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/its-AkshatJain/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/its-AkshatJain/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/its-AkshatJain/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/its-AkshatJain/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3429-special-array-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/its-AkshatJain/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/its-AkshatJain/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -892,6 +893,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2751-robot-collisions](https://github.com/its-AkshatJain/Leetcode/tree/master/2751-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/its-AkshatJain/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/its-AkshatJain/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/its-AkshatJain/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/its-AkshatJain/Leetcode/tree/master/3447-clear-digits) |
 ## Design
@@ -1250,6 +1252,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/its-AkshatJain/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/its-AkshatJain/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/its-AkshatJain/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/its-AkshatJain/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/its-AkshatJain/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1332,6 +1335,7 @@
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/its-AkshatJain/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/its-AkshatJain/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/its-AkshatJain/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/its-AkshatJain/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Shortest Path
 |  |
@@ -1347,6 +1351,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-AkshatJain/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3001-apply-operations-to-maximize-score](https://github.com/its-AkshatJain/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/its-AkshatJain/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1410,6 +1415,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/its-AkshatJain/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/its-AkshatJain/Leetcode/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/its-AkshatJain/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1428,6 +1434,7 @@
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/its-AkshatJain/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/its-AkshatJain/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/its-AkshatJain/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Memoization
 |  |
 | ------- |
