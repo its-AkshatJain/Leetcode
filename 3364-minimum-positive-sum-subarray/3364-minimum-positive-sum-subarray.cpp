@@ -2,14 +2,22 @@ class Solution {
 public:
     int minimumSumSubarray(vector<int>& nums, int l, int r) {
         int n = nums.size();
+        vector<int> prefixSum(n, 0);
+
+        prefixSum[0] = nums[0];
+        for (int i = 1; i < n; i++) {
+            prefixSum[i] = nums[i] + prefixSum[i - 1];
+        }
+
         int result = INT_MAX;
 
         for (int i = 0; i < n; i++) {
-            int sum = 0;
-            for (int j = i; j < n && (j - i + 1) <= r; j++) {
-                sum += nums[j];
+            for (int len = l; len <= r && (i + len) <= n; len++) {
+                int j = i + len - 1;
 
-                if ((j - i + 1) >= l && sum > 0) {
+                int sum = prefixSum[j] - (i > 0 ? prefixSum[i - 1] : 0);
+
+                if (sum > 0) {
                     result = min(result, sum);
                 }
             }
