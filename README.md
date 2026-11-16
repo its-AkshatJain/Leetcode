@@ -695,6 +695,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/its-AkshatJain/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/its-AkshatJain/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/its-AkshatJain/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-count-days-spent-together](https://github.com/its-AkshatJain/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -761,6 +762,7 @@
 | [2048-build-array-from-permutation](https://github.com/its-AkshatJain/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/its-AkshatJain/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/its-AkshatJain/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/its-AkshatJain/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/its-AkshatJain/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/its-AkshatJain/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/its-AkshatJain/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
