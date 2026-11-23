@@ -54,6 +54,7 @@
 | [1340-jump-game-v](https://github.com/its-AkshatJain/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/its-AkshatJain/Leetcode/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/its-AkshatJain/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1352-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/its-AkshatJain/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/its-AkshatJain/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/its-AkshatJain/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -811,6 +812,7 @@
 | [0877-stone-game](https://github.com/its-AkshatJain/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/its-AkshatJain/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/its-AkshatJain/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/its-AkshatJain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/its-AkshatJain/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -917,6 +919,7 @@
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/its-AkshatJain/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/its-AkshatJain/Leetcode/tree/master/1622-fancy-sequence) |
@@ -958,12 +961,14 @@
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/its-AkshatJain/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/its-AkshatJain/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/its-AkshatJain/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/its-AkshatJain/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/its-AkshatJain/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
