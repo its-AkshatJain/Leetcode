@@ -1,5 +1,17 @@
 class Solution {
 public:
+    int gcd(int a, int b) {
+        while (b != 0) {
+            int rem = a % b;
+            a = b;
+            b = rem;
+        }
+
+        return a;
+    }
+
+    int lcm(int a, int b) { return (a / gcd(a, b)) * b; }
+
     int maxLength(vector<int>& nums) {
         int n = nums.size();
         int ans = INT_MIN;
